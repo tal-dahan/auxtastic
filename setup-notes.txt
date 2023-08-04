@@ -1,0 +1,15 @@
+ports of raspberry:
+-------------------
+[1][3]
+[0][2]
+
+0 - keyboard
+1 - mouse
+2 - PRO (Output)
+3 - USB Audio Device (Input)
+
+device classification:
+----------------------
+input - USB Audio Device
+output - PRO
+
